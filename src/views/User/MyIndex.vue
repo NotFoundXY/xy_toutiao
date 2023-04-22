@@ -1,7 +1,6 @@
 <template>
   <div>
-    <router-view>
-    </router-view>
+    我的页面 - 编辑用户资料
   </div>
 </template>
 
@@ -12,4 +11,5 @@ export default {
 </script>
 
 <style>
+
 </style>
